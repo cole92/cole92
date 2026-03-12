@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Aleksandar Todorovic
 
-<!--
-**cole92/cole92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building full-stack apps with React and Firebase, focused on UX, clean engineering, and real product problems.
 
-Here are some ideas to get you started:
+## Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### LifeRecompiled
+A portfolio-grade full-stack community/blog platform built with React, Firebase, Cloud Functions, and Tailwind CSS.
+
+- Live: https://liferecompiled.com
+- Repo: https://github.com/cole92/liferecompiled
+
+## Core stack
+
+- React
+- JavaScript
+- Firebase Auth
+- Firestore
+- Cloud Functions
+- Tailwind CSS
+- Vite
+- Cloudinary
+- Cloudflare
+
+## Also worked with
+
+- Recharts
+- Framer Motion
+- Redux Toolkit
+- React Toastify
+
+## Current focus
+
+- finalizing LifeRecompiled for portfolio presentation
+- strengthening full-stack thinking and engineering discipline
+- building practical products with clear UX and solid structure
