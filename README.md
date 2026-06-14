@@ -114,5 +114,4 @@ These projects are smaller, but they show the path from JavaScript fundamentals 
 
 * building practical React and Firebase applications with clear UX and maintainable structure
 * strengthening TypeScript and Node.js fundamentals
-* improving full-stack thinking through real app architecture, auth, data modeling, and deployment workflows
-* turning larger projects into clear case studies and reusable portfolio material
+* improving full-stack thinking through auth, data modeling, backend logic, and deployment workflows
