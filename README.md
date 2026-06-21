@@ -96,7 +96,7 @@ A product-focused project built around structured user flow, real-life training 
 
 ## Supporting projects
 
-Alongside my two flagship projects, I keep smaller JavaScript and React projects that show my learning path and breadth:
+Alongside my two flagship projects, I keep supporting JavaScript and React projects that show breadth across common frontend patterns:
 
 * weather/API apps
 * CRUD and LocalStorage apps
@@ -106,7 +106,7 @@ Alongside my two flagship projects, I keep smaller JavaScript and React projects
 * ecommerce/cart UI practice
 * Redux Toolkit practice
 
-These projects are smaller, but they show the path from JavaScript fundamentals to larger React/Firebase applications.
+These projects are smaller, but they show progression from JavaScript fundamentals toward larger React/Firebase applications.
 
 ---
 
