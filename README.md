@@ -1,8 +1,8 @@
 # Hi, I'm Aleksandar Todorovic
 
-I build React, TypeScript, and Firebase applications focused on product clarity, practical UX, and clean engineering.
+I build React, TypeScript, JavaScript, and Firebase-backed websites, web apps, MVPs, dashboards, and responsive interfaces focused on product clarity, practical UX, and clean engineering.
 
-My work is centered around real app flows: routing, state, authentication, dashboards, responsive interfaces, Firebase-backed data, local persistence, drag-and-drop UI, and user-facing product polish.
+My work is centered around real frontend and app flows: responsive layouts, routing, state, authentication, dashboards, Firebase-backed data, local persistence, drag-and-drop UI, API-connected interfaces, and user-facing product polish.
 
 ---
 
@@ -113,14 +113,16 @@ TaskFlow started as a course-based Trello-style clone and was then cleaned up, m
 
 ## What I can help build
 
-* React frontends and MVPs
-* responsive websites and app interfaces
+* complete responsive websites and landing pages
+* React frontends and frontend MVPs
+* responsive web apps and user-facing interfaces
 * dashboards and admin panels
 * Firebase-backed web apps
 * authentication flows
 * CRUD and data-driven interfaces
+* API-connected frontend flows
 * localStorage-based interfaces
-* product UI cleanup and polish
+* responsive UI fixes and product polish
 * Figma-to-React implementation
 * technical README and project documentation polish
 
