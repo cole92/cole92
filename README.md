@@ -33,21 +33,24 @@ The project includes posts, comments, reactions, saved posts, profiles, dashboar
 
 ### Training App
 
-A mobile-first, local-first training MVP for structured workout cycles, guided logging, previous-value continuity, and educational training support.
+A mobile-first, local-first structured training system that combines Bulk and Cut plans, guided workout execution, contextual training support, logging, previous values, and cycle continuity in one clear flow.
 
-A product-focused project built around structured user flow, real-life training interruptions, guided workout execution, and local-first MVP decisions.
+The product is built around two connected principles: clarity during each workout and continuity across the training cycle. Users can see what to do, how to perform it, what they logged previously, and what comes next, while the cycle-based structure keeps the workout order stable when real-life schedules change.
+
+Contextual guidance includes RIR, tempo, rest targets, exercise cues, progression rules, warm-up support, and explanations of special training methods, with deeper educational content available when needed.
 
 **What it demonstrates:**
 
-* React app architecture
-* mobile-first UI
-* route-based screen flow
-* Context + reducer state
-* localStorage persistence
-* guided workout flow
-* previous-value continuity
-* partial-day support
-* product thinking and MVP scope control
+* product-focused React app architecture
+* mobile-first, app-like UI
+* route-based guided workout flow
+* Context + reducer state management
+* dedicated localStorage persistence and state hydration
+* separation of static training content from persisted user progress
+* contextual guidance and progressive disclosure
+* previous-value continuity across workouts and cycles
+* partial-day, finish-day, and end-cycle state handling
+* real-life edge-case design and MVP scope control
 
 **Live:** https://training-app-mvp.web.app
 **Repo:** https://github.com/aleksandar-todorovic-dev/training-app
