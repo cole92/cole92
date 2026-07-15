@@ -1,9 +1,10 @@
 # Hi, I'm Aleksandar Todorovic
 
-I build React, TypeScript, JavaScript, and Firebase-backed websites, web apps, MVPs, dashboards, and responsive interfaces focused on product clarity, practical UX, and clean engineering.
+I’m a frontend-first web developer focused on building and improving practical websites, web applications, product interfaces, dashboards, and user-facing flows.
 
-My work is centered around real frontend and app flows: responsive layouts, routing, state, authentication, dashboards, Firebase-backed data, local persistence, drag-and-drop UI, API-connected interfaces, and user-facing product polish.
+My strongest project experience is in React, TypeScript, JavaScript, and Firebase, but I work from the actual web problem rather than treating one exact stack as the boundary. My work can include new frontend features, existing HTML, CSS, JavaScript, or React codebases, template-based and mixed web projects, documented API integrations, managed services, responsive fixes, debugging, maintenance, deployment, and technical handoff.
 
+I use AI and documentation to investigate unfamiliar code and nearby technologies, compare implementation options, and move faster through a first solution. I then validate the result through the codebase, browser tools, normal and edge-case testing, build checks, and clear documentation.
 ---
 
 ## Featured projects
