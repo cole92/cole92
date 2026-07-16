@@ -121,6 +121,9 @@ TaskFlow started as a course-based Trello-style clone and was then cleaned up, m
 * complete responsive websites and landing pages
 * React frontends and frontend MVPs
 * responsive web apps and user-facing interfaces
+* improvements and features in existing React, JavaScript, HTML, and CSS codebases
+* website maintenance, debugging, responsive fixes, and contained mixed-codebase changes
+* documented API integrations, ordinary deployment, and technical handoff
 * dashboards and admin panels
 * Firebase-backed web apps
 * authentication flows
